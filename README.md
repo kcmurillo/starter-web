@@ -9,7 +9,11 @@ This is an example to show diffrent parts of git repository and various commands
 
 ## Purpose
 
+add to purpose.
+
 ## Deploymnet
+
+This is a simple website project, deploymnet can be aby web server. 
 
 Sample website with plenty of files for demos
 
